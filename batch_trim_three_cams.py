@@ -6,7 +6,7 @@ import re
 
 # --- Configuration (Keep these the same) ---
 INPUT_CSV_FILE = 'trim_list_Dec9.csv'
-OUTPUT_FOLDER = '/Users/kristensteudel/Library/CloudStorage/GoogleDrive-steudelk@stanford.edu/My Drive/NMBL/Stanford Football OpenCap Screening/Sony Camera Calibration Videos /Testing December 10/Trimmed Videos/'
+OUTPUT_FOLDER = '/Users/kristensteudel/Library/CloudStorage/GoogleDrive-steudelk@stanford.edu/My Drive/NMBL/Stanford Football OpenCap Screening/Sony Camera Calibration Videos /Testing December 9/Trimmed Videos/'
 FFMPEG_PATH = 'ffmpeg'
 # ---
 
